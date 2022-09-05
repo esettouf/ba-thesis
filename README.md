@@ -1,5 +1,5 @@
 # BA Thesis:
-# 'Using BERT Transformers for Topic Modeling in a German Tax- and Legal-specific domain'
+## 'Using BERT Transformers for Topic Modeling in a German Tax- and Legal-specific domain'
 
 
 Part of BA Thesis by Enis Settouf @ HTW Berlin BA Business computing
