@@ -10,9 +10,9 @@ Data Source used in the project: [OpenLegalData.io](https://de.openlegaldata.io/
 
 | Name  | Link  |
 |---|---|
-| Pre-Processing data |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1CF2Uqmhu7Adrzyl-U8pljE18FgmLnTlF?usp=sharing)|
-| Post-Training RoBERTa model |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+| Pre-Processing data | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1CF2Uqmhu7Adrzyl-U8pljE18FgmLnTlF?usp=sharing) |
+| Post-Training RoBERTa model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1MKIwyd27YTCyoXWKvgHUBvCehjC2SWcM?usp=sharing) |
 | Creating BERTopic Model |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17wmqqSS4eVEzhZulcObeSlZNT11uuEss?usp=sharing) |
 | Creating Topics with LDA |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q7GSbZQLoPyM4slV8B_4AdagCLauzAze?usp=sharing) |
